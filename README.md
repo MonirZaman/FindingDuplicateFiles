@@ -1,6 +1,6 @@
 # FindingDuplicateFiles
 
-Command to run the code: python findingDuplicateFiles.py <directoryName>
+Run the code using command: python findingDuplicateFiles.py <directoryName>
 
 Project description: A directory structure contains 100G size of files. The
                      depth, number of sub-directories and files is not known, nor the file size.
